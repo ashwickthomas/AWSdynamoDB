@@ -36,7 +36,7 @@ public class UserModel {
 
         @Override
         public String toString() {
-            return "UserDetails [userId=" + userId + ", firstName=" + firstName + ", lastName=" + lastName + "]";
+            return "UserDetails [userId =" + userId + ", firstName=" + firstName + ", lastName=" + lastName + "]";
         }
 
 
